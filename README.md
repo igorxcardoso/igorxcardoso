@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 
  <hr>
+ <div align="center">
  <div>
   <a href="https://github.com/igorxcardoso">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorxcardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
@@ -34,6 +35,7 @@ Here are some ideas to get you started:
  <img align="center" alt="Igor-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
  
   <!-- <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
+</div>
 </div>
 
  <hr>

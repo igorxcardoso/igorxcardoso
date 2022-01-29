@@ -1,4 +1,4 @@
-<!-- ### Welcome 👋 -->
+### _Hi my name is Igor. Welcome to my repo!_
 
 <!--
 **ig-cardoso/ig-cardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
